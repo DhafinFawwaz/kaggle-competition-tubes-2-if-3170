@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #FFFFFF"><em>Tugas Besar 2 IF3170 Inteligensi Artifisial 2024/2025 </em></h1>
 
 ## 📄 Description
-This repository contains implementation of KNNN, Gaussian Naive-Bayes, dan ID3 algorithm on dataset from UNSW-NB15. Dataset from UNSW-NB15 is a network traffic dataset that contains various types of cyber attacks and normal activities. 
+This repository contains implementation of KNNN, Gaussian Naive-Bayes, dan ID3 algorithm on dataset from UNSW-NB15. Dataset from UNSW-NB15 is a network traffic dataset that contains various types of cyber attacks and normal activities. Note that the used ipynb file is the `IF3170_Artificial_Intelligence___Tugas_Besar_2_Notebook_Template.ipynb`. The others are used as helpers while in developement as a source code.
 
 ## ❓ How to Run
 - Make sure python is installed on your computer. You can download python [here](https://www.python.org/downloads/).
